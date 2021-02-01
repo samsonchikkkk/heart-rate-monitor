@@ -1,0 +1,46 @@
+.review{
+    padding-bottom: 70px;
+    &__item{
+        display: flex;
+        margin-top: 70px;
+
+        span {
+            opacity:1;
+            color:#646464;
+            font-weight: 500;
+            font-size:14px;
+            
+            
+        }
+
+        p {
+            opacity:1;
+            color:#0D0D0D;
+            font-weight: 300;
+            font-size:16px;
+            
+        }
+
+        &__par {margin-top: 19px;}
+
+        img{
+            height: 170px;
+            width: 170px;
+        }
+    }
+
+    &__text {
+        margin-left: 62px;
+        line-height: 19px;
+        padding-right: 60px;
+    }
+    &__name {
+        opacity:1;
+        color:#0D0D0D;
+        font-weight: 700;
+        font-size:18px;
+        margin-bottom: 4px;
+        
+    }
+    
+}

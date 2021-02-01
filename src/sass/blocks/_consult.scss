@@ -1,0 +1,14 @@
+.consult {
+    min-height: 680px;
+    padding: 100px 0 92px 0;
+    background: url('../../img/bg2.png') center (center/cover) no-repeat;
+
+    &__disc{
+        opacity:1;
+        color:#FFFFFF;
+        font-weight: 500;
+        font-size:20px;
+        text-align:left;
+        margin-top: 80px;
+    }
+}
