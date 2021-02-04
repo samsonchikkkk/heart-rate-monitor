@@ -56,4 +56,12 @@
 
 
     }
+    &__animate {
+        background-color: #fff;
+
+        animation-name: heartbeat;
+        animation-duration: 1.5s;
+        animation-iteration-count: infinite;
+
+    }
 }
